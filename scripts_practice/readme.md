@@ -1,0 +1,1 @@
+Place partial scripts that you can use during the training to have students learn how to leverage the skill you are teaching.

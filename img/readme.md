@@ -1,0 +1,1 @@
+Images used within the repository.  Especially in the presentation (index.html).

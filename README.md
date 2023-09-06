@@ -8,6 +8,7 @@ You can use this file to make slides that can be used to present your material. 
 
 1. You have to configure your repository - Settings -> Action -> General -> Workflow permissions and choose read and write permissions
 2. You also need to make your repo a github pages site.
+3. Read about [Remark JS](https://github.com/gnab/remark)
 
 ## The varied folders
 
